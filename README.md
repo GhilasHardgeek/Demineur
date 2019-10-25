@@ -18,11 +18,16 @@ Bonne chance !
 
 ## Fonctions:
 
-*
-*
-*
-*
-*
+
+Void Ini
+
+Void AfficheT
+
+Void placeM
+
+Void jeu
+
+Void Nb_Mines_Voisines
 
 
 
@@ -57,11 +62,11 @@ make
 
 ## Auteurs:
 
-*
-*
-*
-*
-*
+AKKAL Aghilas
+BOUAZZA Manissa
+HOUNAS Zehor thilleli
+IFRANE Chafia
+IFRANE Tinhinane
 
 
 ## Version:
