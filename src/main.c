@@ -1,31 +1,1 @@
-#include <stdlib.h>
-#include <stdio.h>
-
-
-
-
-
-
-void affichage(){
-	int N=10;
-	char grille[N][N];
-	for (int i = 0; i < N; i++){
-		printf("|");
-		for (int j = 0; j < N; j++){
-			grille[i][j] ='*';
-			printf(" %c |",grille[i][j]);
-	
-		}
-		printf("\n");
-
-	}
-
-
-
-
-}
-
-int main(int argc, char const *argv[]){
-	affichage();
-	return 0;
-}
+/** * \file main.c * \brief Programme qui lance le jeu le Démineur . * \author Ghilas Akkal , Ifrene Tinhinane, Ifrene Chafia, Hounas Zehor Thilleli, Bouazza Manissa * \version 1.0 * \date 25 octobre 2019 *//** * \int main () * \brief Fonction main qui appelle toutes les autres fonctions. * * \param Sans paramètres * \return une valeur NULL */#include"..//include/header.h"  int main(){  tab TM;    /*!< Tableau des mines. */  tab TJ;              /*!<La grille*/   srand(time(NULL));	/*!<Initialisation du Random*/   Initialisation(TM, TJ);          /*!<Initialisation des tableaux (X)*/    Mines_rand(TM);          /*!<Placement des mines*/        jeu(TM, TJ);          /*!<Jeu(X)*/   return 0;} 
