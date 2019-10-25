@@ -18,16 +18,17 @@ Bonne chance !
 
 ## Fonctions:
 
+void Initialisation
 
-Void Ini
+void Affichage
 
-Void AfficheT
+void Mines_Rand
 
-Void placeM
+void jeu
 
-Void jeu
+void Nb_Mines_Voisines
 
-Void Nb_Mines_Voisines
+
 
 
 
@@ -62,11 +63,11 @@ make
 
 ## Auteurs:
 
-AKKAL Aghilas
-BOUAZZA Manissa
-HOUNAS Zehor thilleli
-IFRANE Chafia
-IFRANE Tinhinane
+AKKAL Aghilas,
+BOUAZZA Manissa,
+HOUNAS Zehor thilleli,
+IFRANE Chafia,
+IFRANE Tinhinane.
 
 
 ## Version:
