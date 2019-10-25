@@ -1,0 +1,5 @@
+Pour les fichiers '.o' ils sont automatiquement nettoyés après la compilation, 
+
+
+le Makefile est créé par CMake, supprime et nettoie automatiquement les fichiers binaires et ne laisse que l'exécutable.
+

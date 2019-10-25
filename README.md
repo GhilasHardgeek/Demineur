@@ -18,11 +18,24 @@ Bonne chance !
 
 ## Fonctions:
 
+<<<<<<< HEAD
 *
 *
 *
 *
 *
+=======
+
+Void Ini
+
+Void AfficheT
+
+Void placeM
+
+Void jeu
+
+Void Nb_Mines_Voisines
+>>>>>>> c846064d6e5c3f2c7bbd0dd5f1bd6c60a18e0881
 
 
 
@@ -57,11 +70,19 @@ make
 
 ## Auteurs:
 
+<<<<<<< HEAD
 *
 *
 *
 *
 *
+=======
+AKKAL Aghilas
+BOUAZZA Manissa
+HOUNAS Zehor thilleli
+IFRANE Chafia
+IFRANE Tinhinane
+>>>>>>> c846064d6e5c3f2c7bbd0dd5f1bd6c60a18e0881
 
 
 ## Version:

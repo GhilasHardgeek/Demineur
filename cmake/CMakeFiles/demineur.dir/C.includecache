@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ifrene/Bureau/Démineur/include/header.h
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+
+/home/ifrene/Bureau/Démineur/src/deroulement.c
+../include/header.h
+/home/ifrene/Bureau/Démineur/include/header.h
+
+/home/ifrene/Bureau/Démineur/src/detection_mines.c
+../include/header.h
+/home/ifrene/Bureau/Démineur/include/header.h
+
+/home/ifrene/Bureau/Démineur/src/main.c
+
