@@ -19,23 +19,31 @@ Bonne chance !
 ## Fonctions:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 *
 *
 *
 *
 *
 =======
+=======
+void Initialisation
+>>>>>>> b5415137428e872f38c9d23e857e57fe41eb0781
 
-Void Ini
+void Affichage
 
-Void AfficheT
+void Mines_Rand
 
-Void placeM
+void jeu
 
-Void jeu
+void Nb_Mines_Voisines
 
+
+<<<<<<< HEAD
 Void Nb_Mines_Voisines
 >>>>>>> c846064d6e5c3f2c7bbd0dd5f1bd6c60a18e0881
+=======
+>>>>>>> b5415137428e872f38c9d23e857e57fe41eb0781
 
 
 
@@ -71,6 +79,7 @@ make
 ## Auteurs:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 *
 *
 *
@@ -83,6 +92,13 @@ HOUNAS Zehor thilleli
 IFRANE Chafia
 IFRANE Tinhinane
 >>>>>>> c846064d6e5c3f2c7bbd0dd5f1bd6c60a18e0881
+=======
+AKKAL Aghilas,
+BOUAZZA Manissa,
+HOUNAS Zehor thilleli,
+IFRANE Chafia,
+IFRANE Tinhinane.
+>>>>>>> b5415137428e872f38c9d23e857e57fe41eb0781
 
 
 ## Version:
