@@ -2,7 +2,21 @@
 #include <stdio.h>
 
 
-
+void bombes() {
+	int nombreBombe = 5;
+	int i=0
+	int j=0
+	time_t t;
+	srand((unsigned)time(&t));
+	for (i = 0; i < n; i++) {
+	 i=rand() % 10)
+	 for (j = 0; j < n; j++) {
+		 j = rand() % 10);
+		 grille[i][j] = 0;
+	 }
+	}
+	
+}
 
 
 
